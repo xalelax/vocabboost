@@ -15,4 +15,4 @@ together with their definitions. With characteristic here I mean words
 which appear relatively frequently in the book with respect to some other
 text corpus.
 
-I hope this could be useful to someone else too; stay tuned :-)
+I hope this will be useful to someone else too; stay tuned :-)
