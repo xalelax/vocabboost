@@ -131,3 +131,6 @@ dmypy.json
 # Temp files
 *~
 #*#
+
+# OSX stuff
+.DS_Store
